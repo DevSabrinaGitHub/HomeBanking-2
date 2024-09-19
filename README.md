@@ -27,33 +27,7 @@ Este proyecto es una maqueta para un sistema de home banking diseñada como part
 | --- | --- | --- | --- | --- | --- |
 | <a href="https://www.linkedin.com/in/bautistalopezlopez/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/lusoldev/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/martinisaiasabdala/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/martina-zanetta-41798522a/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/sabrina-arndt/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/santiago-saavedra/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
-## Cómo Empezar
 
-### Prerrequisitos
-
-- Debes tener instalado [Node.js](https://nodejs.org/) y [Vite](https://vitejs.dev/).
-
-### Instalación
-
-```bash
-git clone https://github.com/tu-usuario/Grupo-1-Sprint-2.git
-cd Grupo-1-Sprint-2
-npm install
-npm run dev
-```
-
-## Contribuir
-
-Para contribuir a este proyecto, sigue estos pasos:
-
-1. Fork el repositorio: Haz tu propio fork del proyecto en GitHub.
-2. Clona el repositorio forked localmente.
-3. Crea una rama: `git checkout -b nombre-de-tu-rama`.
-4. Haz tus cambios y confírmalos: `git commit -m 'Descripción de los cambios'`.
-5. Sube los cambios a tu fork: `git push origin nombre-de-tu-rama`.
-6. Crea un Pull Request en GitHub desde tu rama hacia la rama `master` del repositorio original.
-
-### Soporte
 
 Si tienes preguntas o necesitas ayuda con la configuración del proyecto, no dudes en abrir un issue en el repositorio.
 
